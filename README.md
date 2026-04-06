@@ -22,10 +22,4 @@ This project analyzes instructor performance and course ratings using Power BI.
 ## 🛠 Tools Used
 - Power BI
 - Excel
-
-## 📎 Files Included
-- `.pbix` dashboard file
 - Project report (PDF/Word)
-
-## 🚀 How to Use
-Download the `.pbix` file and open in Power BI Desktop.
